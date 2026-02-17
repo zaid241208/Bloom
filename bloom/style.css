@@ -1,0 +1,36 @@
+.navbar1{
+    width: 100%;
+    background-color: gray;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+
+.card1{
+    /* background-color: aqua; */
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 490px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.image{
+    display: flex;
+    width: 550px;
+    height: 262px;
+}
+
+.card-head{
+    display: flex;
+    justify-content: center;
+}
+.cards1{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 300px;
+    width: 80%;
+}
+
