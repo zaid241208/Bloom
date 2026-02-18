@@ -1,0 +1,40 @@
+.navbar1 {
+    width: 100%;
+    background-color: gray;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.card{
+    gap: 10px;
+    margin: 15px;
+    border: none !important;
+}
+
+.card>img {
+    height: 220px;
+}
+
+.card-body{
+    border: none;
+    width: 100%;
+    font-size: large;
+}
+.card-title{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.card-body > button{
+    padding: 10px 15px;
+    border-radius: 50px;
+    background-color: orangered;
+    color: white;
+}
+
+
+.image {
+    width: 500px;
+}
